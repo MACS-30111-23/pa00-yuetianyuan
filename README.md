@@ -16,7 +16,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 1. udergraduate school: ucsd
 2. major: psychology
 3. ![My Profile Picture](./mephoto.JPG)
-4. [personal link]([URL](https://cranberry-dove-6wpm.squarespace.com/))
+4. [personal link](https://cranberry-dove-6wpm.squarespace.com/)
 5. First, I accepted the assignemnt and clone to my local repository and edit. then after finished, I push to github. My experience with markdown is very limited.
 
 
