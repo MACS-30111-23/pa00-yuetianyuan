@@ -11,7 +11,15 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
-
+# this is a header
+*second header*
+1. item1
+2. item2
+3. item3
+![My Profile Picture](./mephoto.JPG)
+[personal link]([URL](https://cranberry-dove-6wpm.squarespace.com/))
+First, I accepted the assignemnt and clone to my local repository and edit.
+My experience with markdown is very limited.
 
 
 ## 📚  Resources 
